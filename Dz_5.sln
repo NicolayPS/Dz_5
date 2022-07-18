@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32630.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "№1 Сформировать одномерный массив из 7 элементов", "Dz_5\№1 Сформировать одномерный массив из 7 элементов.csproj", "{676BC254-FCB2-4A02-A0ED-17FAE399760B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "№2 Сформировать одномерный массив из 15 элементов,", "№2\№2 Сформировать одномерный массив из 15 элементов,.csproj", "{7A8132FF-F0D3-4A9A-AA24-E63F86869DE2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "№3 Сформировать одномерный массив из 10 случайных чисел в диапазоне [-50;50]", "№3\№3 Сформировать одномерный массив из 10 случайных чисел в диапазоне [-50;50].csproj", "{206AA47C-A539-467A-A0C8-A53342658A08}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "№4 Сформировать одномерный массив из 20 случайных чисел", "№4\№4 Сформировать одномерный массив из 20 случайных чисел.csproj", "{953B15E4-702C-44FA-853C-9CBCA608A77E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "№5 Запросить у пользователя целочисленное значение N", "№5\№5 Запросить у пользователя целочисленное значение N.csproj", "{6F2C0821-35D3-4565-96C5-BB18EC4EEC9B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "№6 является ли введенная с клавиатуры матрица магическим квадратом", "№6\№6 является ли введенная с клавиатуры матрица магическим квадратом.csproj", "{EA85C96B-4E1F-4CC9-AA39-B071D724072E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{676BC254-FCB2-4A02-A0ED-17FAE399760B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{676BC254-FCB2-4A02-A0ED-17FAE399760B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{676BC254-FCB2-4A02-A0ED-17FAE399760B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{676BC254-FCB2-4A02-A0ED-17FAE399760B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A8132FF-F0D3-4A9A-AA24-E63F86869DE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A8132FF-F0D3-4A9A-AA24-E63F86869DE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A8132FF-F0D3-4A9A-AA24-E63F86869DE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A8132FF-F0D3-4A9A-AA24-E63F86869DE2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{206AA47C-A539-467A-A0C8-A53342658A08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{206AA47C-A539-467A-A0C8-A53342658A08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{206AA47C-A539-467A-A0C8-A53342658A08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{206AA47C-A539-467A-A0C8-A53342658A08}.Release|Any CPU.Build.0 = Release|Any CPU
+		{953B15E4-702C-44FA-853C-9CBCA608A77E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{953B15E4-702C-44FA-853C-9CBCA608A77E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{953B15E4-702C-44FA-853C-9CBCA608A77E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{953B15E4-702C-44FA-853C-9CBCA608A77E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F2C0821-35D3-4565-96C5-BB18EC4EEC9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F2C0821-35D3-4565-96C5-BB18EC4EEC9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F2C0821-35D3-4565-96C5-BB18EC4EEC9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F2C0821-35D3-4565-96C5-BB18EC4EEC9B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA85C96B-4E1F-4CC9-AA39-B071D724072E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA85C96B-4E1F-4CC9-AA39-B071D724072E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA85C96B-4E1F-4CC9-AA39-B071D724072E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA85C96B-4E1F-4CC9-AA39-B071D724072E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D6092FA0-3780-4F63-96EE-81C8ED74452F}
+	EndGlobalSection
+EndGlobal
